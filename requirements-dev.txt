@@ -3,3 +3,7 @@ pytest
 pytest-mock
 pytest-cov
 coverage
+jdk
+g++
+gcc
+gdb-multiarch
